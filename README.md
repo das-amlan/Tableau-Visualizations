@@ -8,4 +8,4 @@ https://public.tableau.com/app/profile/das.amlan
 * Customer Analysis
 * Expansion analysis
 * World Demographics Analysis
-* World Demographics Analysis
+* Walmart Retail Data Analysis
